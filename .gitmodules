@@ -1,0 +1,4 @@
+[submodule "adcp"]
+	path = adcp
+	url = ./adcp
+	datalad-id = b778d56e-507d-416b-b56c-09553bc400f8
